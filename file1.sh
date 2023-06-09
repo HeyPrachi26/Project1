@@ -1,0 +1,5 @@
+echo "Hello World"
+echo "This is just a sample file"
+echo "I am trying to learn Git"
+echo "I will try pull, push, merge, commit"
+echo "Let's gooo...."
